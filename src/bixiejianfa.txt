@@ -6,6 +6,7 @@ Happy-shi尝试修改并提交,刚刚不算，我再提交一次
 
 i am dongfangbubai
 
+我要修改了，请你在idea中解决冲突
 我是Happy-shi-1,user.name和user.email有很大的作用
 辟邪剑法，好
 
