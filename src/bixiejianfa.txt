@@ -8,3 +8,5 @@ i am dongfangbubai
 
 我是Happy-shi-1,user.name和user.email有很大的作用
 辟邪剑法，好
+
+我是管理员，我准备在idea中解决冲突
